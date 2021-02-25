@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rest Trailer</string>
+    <string name="popular">Popular</string>
+    <string name="most_popular_movies">Most popular movies</string>
+    <string name="error_fetch_movies">Please check your internet connection</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="highest_rated_movies">Highest rated movies of all time</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="stay_updated">Stay updated with the latest movies</string>
+    <string name="lorem">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec faucibus felis. Donec at venenatis justo. In vel purus tortor. Sed ultricies, libero viverra lobortis hendrerit, mauris quam efficitur purus, a pretium ipsum nunc sit amet velit. Mauris tempus tellus sed tellus consectetur, nec maximus felis lacinia. Fusce pharetra, tortor sed dapibus malesuada, magna orci viverra nisi, vel luctus purus libero id quam. Integer ut dolor felis. Sed sollicitudin neque nec imperdiet lacinia. Etiam lacinia rhoncus lectus a elementum. Aliquam hendrerit libero sodales tellus laoreet facilisis. Pellentesque ipsum ex, faucibus tempus tristique at, faucibus at sapien. Quisque luctus lacinia purus eget viverra.
+
+Duis dapibus magna vestibulum lobortis dapibus. Nullam vel sem ac massa rhoncus vulputate in eu ipsum. In ultrices quis nisl ac tempor. Praesent at turpis quis turpis mollis euismod ac ut est. Nam bibendum ante eget sem condimentum, ac suscipit mi aliquam. Curabitur tellus nisi, posuere laoreet eros vitae, porttitor elementum lectus. Aliquam est ipsum, tempus ut rutrum vel, placerat eget ante. Sed erat nisi, molestie sit amet elit quis, commodo dignissim eros. Sed vel turpis eros.
+
+Suspendisse potenti. Nam non placerat justo, in tempor elit. Vivamus ac aliquam lacus, vel hendrerit urna. Nullam at odio at leo pulvinar gravida. Quisque dapibus neque nec purus laoreet, eu vestibulum mauris viverra. Pellentesque molestie sollicitudin nisl. Curabitur semper ipsum risus, ut tincidunt justo laoreet et. Vivamus pharetra laoreet faucibus.
+
+Morbi molestie ex odio, quis interdum urna maximus venenatis. Donec sagittis augue vitae nisi porttitor cursus. In tellus sem, tincidunt at mi ut, aliquam consequat erat. Pellentesque tempus eros eget pellentesque fringilla. Aenean eget risus massa. Donec lacinia ligula in diam blandit dapibus. Curabitur gravida magna in odio finibus volutpat vel id neque. Cras venenatis ipsum in dolor gravida euismod. Nulla at tellus erat. Morbi velit leo, mattis eu mauris ut, pellentesque placerat ante. Nam eget tortor elit. Proin quis lectus et odio luctus consectetur quis sed nulla. Sed lectus turpis, blandit sit amet dapibus sed, gravida nec arcu.
+
+Nullam porttitor sagittis dui, a sollicitudin dolor consequat a. Vivamus convallis diam eu semper elementum. Nam hendrerit vehicula sagittis. Nulla et semper libero. Donec vitae mollis orci, fringilla viverra risus. Duis eu metus eu augue posuere lacinia. Etiam sodales quam sit amet nisi aliquam tempor. Suspendisse quam sapien, aliquam nec urna sed, tempus pretium mauris. Suspendisse eget massa non est scelerisque consectetur. Sed venenatis ante ex, id semper tortor ornare ut. Suspendisse vulputate gravida mi. Curabitur id eleifend magna. </string>
+</resources>
